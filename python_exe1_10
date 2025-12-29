@@ -1,0 +1,52 @@
+#10 Soalan Python (Sequence) – Penyelesaian Masalah untuk Pemula
+
+#Soalan 1 (Input & Output asas)
+#Create a Python program that receives one number from the user and displays the number back to the screen.
+
+#Soalan 2 (Operasi aritmetik mudah)
+#Create a Python program that receives two numbers from the user and displays the sum of the two numbers.
+
+#Soalan 3 (Lebih daripada satu operasi)
+#Create a Python program that receives two numbers from the user and displays:
+#the sum
+#the difference
+#the product
+
+#Soalan 4 (Penggunaan pembolehubah bermakna)
+#Create a Python program that receives the length and width of a rectangle from the user and calculates the area of the rectangle.
+
+#Soalan 5 (Pengiraan berasaskan formula)
+#Create a Python program that receives the radius of a circle and calculates the area of the circle.
+#(Use the value of π = 3.142)
+
+#Soalan 6 (Pengendalian input jenis teks & nombor)
+#Create a Python program that receives:
+#the user’s name
+#the user’s age
+#Then display a message in the format:
+#Hello <name>, you are <age> years old.
+
+#Soalan 7 (Penukaran unit)
+#Create a Python program that receives a temperature in Celsius and converts it to Fahrenheit.
+#Formula:
+#F = (C × 9/5) + 32
+
+#Soalan 8 (Pengiraan kewangan mudah)
+#Create a Python program that receives:
+#the price of an item
+#the quantity purchased
+#Then calculate and display the total price.
+
+#Soalan 9 (Gabungan pelbagai input & pengiraan)
+#Create a Python program that receives:
+#the name of a student
+#marks for three subjects
+#Then calculate and display:
+#the total marks
+#the average marks
+
+#Soalan 10 (Masalah dunia sebenar – lengkap & berurutan)
+#Create a Python program that receives:
+#the distance (in km) travelled
+#the time (in hours) taken
+#Then calculate and display the average speed (km/h) with a clear output message.
