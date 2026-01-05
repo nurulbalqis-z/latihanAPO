@@ -1,0 +1,8 @@
+num1 = int(input("Enter your first number: "))
+num2 = int(input("Enter your second number: "))
+sum_numbers = num1 + num2
+difference_numbers = num1 - num2
+product_numbers = num1*num2
+print("The sum of", num1, "and", num2, "is:", sum_numbers)
+print("The difference of", num1, "and", num2, "is:", difference_numbers)
+print("The product of", num1, "and", num2, "is:", product_numbers)
